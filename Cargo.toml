@@ -1,0 +1,10 @@
+[package]
+name = "feed"
+version = "0.1.0"
+authors = ["Matthias Fauconneau <matthias.fauconneau@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = ""
+static-http-cache = ""
+syndication = ""
